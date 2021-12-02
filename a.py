@@ -1,4 +1,8 @@
-improt os
+import os
+import csv
 print(os.getcwd())
-print("Hello")
-Print("updated")
+
+print("simulating the user code 2")
+print("simulating the user code 3 and trying the rest command")
+
+def add_number(a, b):
